@@ -27,10 +27,3 @@ Here is how a task moves from an idea to completion:
 ### 5. Done
 * **Action:** Merge the PR. The linked Issue will close automatically. Delete the local/remote branch to keep the repo clean
 * **Goal:** Celebrate progress and keep the workspace tidy
-
----
-
-## Learning Objectives
-
-* Mastering **GitHub Projects**
-* Developing strong Git habits
